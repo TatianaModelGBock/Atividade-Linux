@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Definir o diretório de saída para armazenar os resultados
-DIR_SAIDA="/home/tatiana/validacao_servico"  # Substitua pelo caminho desejado
+DIR_SAIDA="/home/tatiana/log"  # Substitua pelo caminho desejado
 SERVICO="nginx"  # Defina o nome do serviço que deseja verificar (ex: nginx)
 
 # Criar diretório de saída, caso não exista
